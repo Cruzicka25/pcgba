@@ -24,7 +24,8 @@ body{
     max-height:100%;
     max-width:100%;
     background-size: cover;
-    background-repeat: none;;
+    background-repeat: none;
+    overflow:none;
 
     
     
@@ -47,13 +48,27 @@ ul{
 
 
 ul li a{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color:white;
     text-decoration: none;
     margin:30px;
     
     
     
+    
+    
 
 }
 
+main{
+    height:80vh;
+    width:60vw;
+    backdrop-filter: blur(3px);
+    position:fixed;
+    left:calc(50% - 30vw);
+    top:25vh;
+    
+    box-shadow:inset 0px 0px 100px 20px rgba(0, 0, 0, .6), 0px 0px 5px 2px;
+
+    
+}
