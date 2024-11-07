@@ -1,1 +1,59 @@
+.bar{
+    
+    width:80vw;
+    position:fixed;
+    left:calc(50% - 80vw/2);
+    height:20%;
+    background-color: rgba(0, 0, 0, 0.45);
+    border-radius:5px;
+    margin:0px;
+
+    
+
+    
+    
+    
+
+
+
+}
+
+body{
+    margin:0px;
+    background: url(https://wallpapers.com/images/hd/glitch-effect-1920-x-1080-background-q32v7hsp0psoa5m1.jpg);
+    max-height:100%;
+    max-width:100%;
+    background-size: cover;
+    background-repeat: none;;
+
+    
+    
+
+}
+
+
+
+ul{
+    
+    list-style-type:none;
+    display:flex;
+    position:fixed;
+    
+    
+    
+    
+}
+
+
+
+ul li a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    text-decoration: none;
+    margin:30px;
+    
+    
+    
+
+}
 
