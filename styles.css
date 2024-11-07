@@ -72,3 +72,18 @@ main{
 
     
 }
+
+ul a:hover{
+    background-color: rgb(152, 39, 67);
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:3px;
+    padding-bottom:3px;
+    border-radius:15px;
+    font-size:25px;
+    transition:.2s;
+    
+    
+    
+
+}
